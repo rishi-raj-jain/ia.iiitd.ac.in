@@ -1,0 +1,34 @@
+ <table class="table table-bordered animated fadeInDown table-responsive">
+      <thead style="background-color:  #082248; color: white; ">
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">Admission Fee Deposit Date</th>
+          <th scope="col">50% Admission Fee Refund</th>
+          <th scope="col">25% Admission Fee Refund</th>
+          <th scope="col">10% Admission Fee Refund</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row" style="background-color:  #082248; color: white; ">Early Action </th>
+          <td>February 15, 2020</td>
+          <td>March 7, 2020</td>
+          <td>April 7, 2020</td>
+          <td>May 15, 2020</td>
+        </tr>
+        <tr>
+          <th scope="row" style="background-color:  #082248; color: white; ">Regular Action </th>
+          <td>April 15, 2020</td>
+          <td>April 30, 2020</td>
+          <td>May 7, 2020</td>
+          <td>May 15, 2020</td>
+        </tr>
+        <tr>
+          <th scope="row" style="background-color:  #082248; color: white; ">Late Action </th>
+          <td>May 22, 2020</td>
+          <td></td>
+          <td></td>
+          <td>June 7, 2020</td>
+        </tr>
+      </tbody>
+    </table>

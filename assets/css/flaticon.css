@@ -1,0 +1,50 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 07/02/2019 10:06
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-customer-service:before { content: "\f100"; }
+.flaticon-college-graduation:before { content: "\f101"; }
+.flaticon-touch-of-one-finger-of-solid-black-hand-symbol:before { content: "\f102"; }
+.flaticon-music-note-black-symbol:before { content: "\f103"; }
+.flaticon-sitemap:before { content: "\f104"; }
+.flaticon-website-design-symbol:before { content: "\f105"; }
+.flaticon-photo-camera:before { content: "\f106"; }
+.flaticon-cloud-reload-symbol:before { content: "\f107"; }
+.flaticon-roboto-logo:before { content: "\f108"; }
+.flaticon-language:before { content: "\f109"; }
+.flaticon-study:before { content: "\f10a"; }
+.flaticon-graduate-student-avatar:before { content: "\f10b"; }
+.flaticon-world:before { content: "\f10c"; }
+.flaticon-place:before { content: "\f10d"; }
+.flaticon-trophy:before { content: "\f10e"; }
+.flaticon-university-campus:before { content: "\f10f"; }
+.flaticon-prize-badge-with-star-and-ribbon:before { content: "\f110"; }
+.flaticon-like:before { content: "\f111"; }
+.flaticon-clock:before { content: "\f112"; }
+.flaticon-calendar:before { content: "\f113"; }
